@@ -1,7 +1,7 @@
 # Transformer-based French-English Translation in PyTorch
 
 This project implements a Transformer model from scratch in PyTorch for French-to-English translation, inspired by the "Attention Is All You Need" paper (Vaswani et al., 2017). It includes a minimal dataset, custom tokenization, vocabulary building, and visualization of attention weights.
-
+ 
 ## Features
 - **Custom Transformer Implementation**: Encoder, decoder, multi-head attention, and positional encoding modules built from scratch.
 - **Small Demo Dataset**: Uses a small set of French-English sentence pairs for demonstration and quick experimentation.
