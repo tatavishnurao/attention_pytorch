@@ -15,7 +15,7 @@ This project implements a Transformer model from scratch in PyTorch for French-t
 - PyTorch 
 - NumPy
 - Matplotlib
-- Seaborn
+- Seaborn 
 - torchtext
 - spaCy (optional, for better tokenization)
 
