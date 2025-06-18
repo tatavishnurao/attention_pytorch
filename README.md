@@ -11,7 +11,7 @@ This project implements a Transformer model from scratch in PyTorch for French-t
 - **Attention Visualization**: Visualizes encoder self-attention and decoder cross-attention using Seaborn heatmaps.
 
 ## Requirements
-- Python 3.7+
+- Python 3.7+ 
 - PyTorch 
 - NumPy
 - Matplotlib
