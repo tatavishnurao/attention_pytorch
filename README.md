@@ -25,7 +25,7 @@ pip install torch numpy matplotlib seaborn torchtext spacy
 python -m spacy download en_core_web_sm
 python -m spacy download fr_core_news_sm
 ```
-
+ 
 ## Usage
 1. **Run the script:**
    ```bash
