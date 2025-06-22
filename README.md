@@ -13,7 +13,7 @@ This project implements a Transformer model from scratch in PyTorch for French-t
 ## Requirements
 - Python 3.7+ 
 - PyTorch  
-- NumPy
+- NumPy 
 - Matplotlib
 - Seaborn 
 - torchtext
